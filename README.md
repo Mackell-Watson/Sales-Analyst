@@ -18,6 +18,9 @@ This Power BI dashboard provides a detailed analysis of product sales across mul
 
 Key Visuals: The dashboard features a Matrix breaking down Product Sales by Month, allowing users to easily track product performance over time. It also includes a Top 10 Highest Revenue by Location chart, highlighting the highest revenue-generating locations, and a Highest Units Sold by State visual, showcasing the top states by volume sold.
 
+![image](https://github.com/user-attachments/assets/97776c9d-6def-4844-b99b-d311f2dd0cfc)
+
+
 Interactive Features: Users can filter the data by Year (2020 or 2021), Region, and Product Category, enabling a tailored analysis of sales trends. Tooltips and legends are used across visuals to provide contextual data when users hover over various elements.
 
 Key Insights: The dashboard offers year-over-year comparisons, identifying trends such as the growth or decline in sales across regions. It also highlights areas where the company performed best in terms of sales and units sold, helping stakeholders make data-driven decisions about future business strategies.
