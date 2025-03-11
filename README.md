@@ -1,6 +1,6 @@
 # Product Sales - Dashboard
 
-### Dashboard Link : 
+### Dashboard Link : https://github.com/Mackell-Watson/Sales-Analyst/blob/main/Sales_Analyst.pbix 
 
 ## Problem Statement
 
