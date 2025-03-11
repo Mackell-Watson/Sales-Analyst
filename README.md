@@ -8,7 +8,7 @@ The goal of this project was to develop a Product Sales Analysis Dashboard using
 
 ## Snapshot of Dashboard (Power BI Service)
 
-![Image](https://github.com/user-attachments/assets/08a315ff-de18-4dc0-94d4-bec38346a12f)
+![Image](https://github.com/user-attachments/assets/3657f498-c1e5-4569-8de4-979607861ea7)
 
 
 ### Product Sales Analysis Dashboard - 2020 and 2021
