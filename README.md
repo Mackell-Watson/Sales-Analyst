@@ -25,6 +25,10 @@ Interactive Features: Users can filter the data by Year (2020 or 2021), Region, 
 
 Key Insights: The dashboard offers year-over-year comparisons, identifying trends such as the growth or decline in sales across regions. It also highlights areas where the company performed best in terms of sales and units sold, helping stakeholders make data-driven decisions about future business strategies.
 
+![Image](https://github.com/user-attachments/assets/3ed46f5e-6361-4c78-b2dd-16338e04ed84)
+
+![Image](https://github.com/user-attachments/assets/3c896f30-4985-4478-ab30-d206446103ce)
+
 User Experience: The layout is designed for easy navigation with clear labels, interactive filters, and color-coded elements that ensure clarity. Annotations on key data points provide additional insights, and all visuals are responsive to different screen sizes, making the dashboard accessible on both desktop and mobile devices.
 
 
