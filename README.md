@@ -14,6 +14,8 @@ The goal of this project was to develop a Product Sales Analysis Dashboard using
 ### Product Sales Analysis Dashboard - 2020 and 2021
 This Power BI dashboard provides a detailed analysis of product sales across multiple regions (West, Southeast, South, Northeast, and Midwest) for the years 2020 and 2021. It showcases key performance indicators (KPIs) including Total Sales, Total Profit, Units Sold, and Total Orders. The dashboard is organized to offer an interactive and comprehensive view of product performance and regional trends.
 
+![Image](https://github.com/user-attachments/assets/85b4fcf1-f182-44c2-ab68-8cc29e0b109a)
+
 Key Visuals: The dashboard features a Matrix breaking down Product Sales by Month, allowing users to easily track product performance over time. It also includes a Top 10 Highest Revenue by Location chart, highlighting the highest revenue-generating locations, and a Highest Units Sold by State visual, showcasing the top states by volume sold.
 
 Interactive Features: Users can filter the data by Year (2020 or 2021), Region, and Product Category, enabling a tailored analysis of sales trends. Tooltips and legends are used across visuals to provide contextual data when users hover over various elements.
